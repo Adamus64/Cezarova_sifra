@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="100" height="100">
-</p>
-# Caesarova šifra (Python Console App)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Caesarova šifra (Python Console App)
 
 Jednoduchá konzolová aplikace v Pythonu pro šifrování a dešifrování textu pomocí **Caesarovy šifry**. 
 
